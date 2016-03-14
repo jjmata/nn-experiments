@@ -4,7 +4,7 @@ If you want to learn about deep learning I highly recommend the excellent [WildM
 
 The notebooks in this project are variations on his '[Implementing a Neural Network from Scratch in Python](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)' exploring expressing the same using [Tensorflow](https://www.tensorflow.org/), [Keras](http://keras.io/), and [skflow](https://github.com/tensorflow/skflow).
 
-**Note:** I'm new to these frameworks, so there maybe better and more correct ways to express this than I came up with.
+**Note:** I'm new to these frameworks, so there maybe better and more correct ways to express this than I came up with. Let me know.
 
 ## setup
 
